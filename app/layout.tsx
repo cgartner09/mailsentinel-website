@@ -1,4 +1,5 @@
 import "./globals.css";
+
 export const metadata = {
   title: "MailSentinel.ai — AI Email Security",
   description: "AI-powered email threat protection for SMBs.",
