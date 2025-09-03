@@ -1,8 +1,8 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Nav from "@/components/Nav";
-import Footer from "@/components/Footer";
+import Nav from "../components/Nav";
+import Footer from "../components/Footer";
 import { Phone, Mail, MapPin, CheckCircle2, ShieldCheck, Lock, Bell, ChevronRight } from "lucide-react";
 
 const BRAND = {
